@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Harsh Raj** — a passionate third-year Computer Science Engineering student with a deep curiosity for coding, logic-building, and software development.  
+Hi, I'm **Harsh Raj** — a passionate second-year Computer Science Engineering student with a deep curiosity for coding, logic-building, and software development.  
 
 - 🔭 I’m currently working on building strong fundamentals in C programming.
 - 🌱 Learning about data structures, loops, arrays, and structures.
